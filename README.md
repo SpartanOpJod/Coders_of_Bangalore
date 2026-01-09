@@ -1,1 +1,1 @@
-Hi , this is my project which consisits of a scenario of collecting , cleaning and parsing of data .
+Hi , this is my project which consisits of a scenario of collecting , cleaning and parsing of data .Everything is done in pure python and does not involve using of advanced data science libraries like Numpy and Pandas.
